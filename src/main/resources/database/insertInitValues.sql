@@ -1,0 +1,1 @@
+INSERT into animals values(1,'кот'),(2,'кит');

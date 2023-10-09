@@ -1,5 +1,4 @@
 CREATE TABLE IF NOT EXISTS animals
 (
     id    BIGSERIAL PRIMARY KEY ,
-    name  VARCHAR(200) NOT NULL ,
-    );
+    name  VARCHAR(200) NOT NULL);

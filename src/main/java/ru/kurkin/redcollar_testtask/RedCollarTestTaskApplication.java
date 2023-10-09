@@ -8,6 +8,7 @@ public class RedCollarTestTaskApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(RedCollarTestTaskApplication.class, args);
+
     }
 
 }
