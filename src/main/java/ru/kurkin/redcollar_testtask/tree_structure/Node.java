@@ -15,4 +15,7 @@ public class Node {
         this.leftNode = null;
         this.rightNode = null;
     }
+    public boolean isQuestion() {
+        return (leftNode != null) && (rightNode != null);
+    }
 }
